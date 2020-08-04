@@ -1,4 +1,4 @@
-# [Jinja2 Theme Quick UI Kit](https://theme-jinja2-quick-uikit.appseed.us/)
+# [Jinja2 Template - Quick UI Kit](https://theme-jinja2-quick-uikit.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -187,4 +187,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Theme Quick UI Kit](https://theme-jinja2-quick-uikit.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja2 Template - Quick UI Kit](https://theme-jinja2-quick-uikit.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
